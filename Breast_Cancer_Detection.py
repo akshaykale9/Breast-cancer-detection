@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
 
 ## Importing the dataset
-df=pd.read_csv('C:\\Users\\Vedant\\Desktop\\Data\\Breast_cancer_data.csv')
+df=pd.read_csv('C:\\Users\\Akshay\\Desktop\\Data\\Breast_cancer_data.csv')
 df.head()
 df.tail()
 
